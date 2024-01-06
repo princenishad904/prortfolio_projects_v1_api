@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "poster": "https://b.zmtcdn.com/data/pictures/3/19842503/cfcfa8172a1d862820076c271c07d2a2_o2_featured_v2.jpg?output-format=webp",
+    "name": "Diamond's Pizza",
+    "price": 300,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 35
+  },
+  {
+    "id": 2,
+    "poster": "https://b.zmtcdn.com/data/pictures/0/18711730/ecb7b3c3090433cc0a9541778d6ce3c1_o2_featured_v2.jpeg?output-format=webp",
+    "name": "Burger",
+    "price": 450,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 50
+  },
+  {
+    "id": 3,
+    "poster": "https://b.zmtcdn.com/data/pictures/1/20348641/280ea8ba17fdfa73d203080f01c4f444_o2_featured_v2.jpg?output-format=webp",
+    "name": "Pizza",
+    "price": 280,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 15
+  },
+  {
+    "id": 4,
+    "poster": "https://b.zmtcdn.com/data/pictures/9/20107719/70fd553de42d5a1e9ee1a65d3ea26779_o2_featured_v2.jpg?output-format=webp",
+    "name": "Fast Food Momo",
+    "price": 300,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 60
+  },
+  {
+    "id": 5,
+    "poster": "https://b.zmtcdn.com/data/pictures/1/19428961/bb5f659af7e56eb32a68c301585f467c_o2_featured_v2.jpg?output-format=webp",
+    "name": "Pizza",
+    "price": 320,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 50
+  },
+  {
+    "id": 6,
+    "poster": "https://b.zmtcdn.com/data/pictures/5/20484705/df35ac666945c0bd010b79e9db05f22d_o2_featured_v2.jpg?output-format=webp",
+    "name": "Vada Pav",
+    "price": 400,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 60
+  },
+  {
+    "id": 7,
+    "poster": "https://b.zmtcdn.com/data/pictures/9/18713389/638f553bdc51866c80c93fea370a3506_o2_featured_v2.jpg",
+    "name": "Chicken",
+    "price": 600,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 60
+  },
+  {
+    "id": 8,
+    "poster": "https://b.zmtcdn.com/data/pictures/4/19630454/9849a221c77439f5104e53ec62f4a8cb_o2_featured_v2.jpg",
+    "name": "Biryani",
+    "price": 600,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 65
+  },
+  {
+    "id": 9,
+    "poster": "https://b.zmtcdn.com/data/pictures/chains/5/19249215/53a96bd95a58594f3d783df84b281c7c_o2_featured_v2.jpg",
+    "name": "KFC Burger",
+    "price": 500,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 65
+  },
+  {
+    "id": 10,
+    "poster": "https://b.zmtcdn.com/data/pictures/4/19280794/0dc325455747ff013fbfc52a3f4607be_o2_featured_v2.jpg",
+    "name": "Sweet family",
+    "price": 400,
+    "from": "Gorakhapur",
+    "deliveryTime": "15",
+    "rating": 4.5,
+    "discount": 40
+  }
+]
