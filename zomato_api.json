@@ -12,7 +12,7 @@
   {
     "id": 2,
     "poster": "https://b.zmtcdn.com/data/pictures/0/18711730/ecb7b3c3090433cc0a9541778d6ce3c1_o2_featured_v2.jpeg?output-format=webp",
-    "name": "Burger",
+    "name": "Pizza",
     "price": 450,
     "from": "Gorakhapur",
     "deliveryTime": "15",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "poster": "https://b.zmtcdn.com/data/pictures/9/20107719/70fd553de42d5a1e9ee1a65d3ea26779_o2_featured_v2.jpg?output-format=webp",
-    "name": "Fast Food Momo",
+    "name": "Pizza",
     "price": 300,
     "from": "Gorakhapur",
     "deliveryTime": "15",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "poster": "https://b.zmtcdn.com/data/pictures/5/20484705/df35ac666945c0bd010b79e9db05f22d_o2_featured_v2.jpg?output-format=webp",
-    "name": "Vada Pav",
+    "name": "Pizza",
     "price": 400,
     "from": "Gorakhapur",
     "deliveryTime": "15",

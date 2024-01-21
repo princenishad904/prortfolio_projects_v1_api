@@ -1,12 +1,13 @@
-const url =
-  "https://weatherapi-com.p.rapidapi.com/current.json?q=uttar%20pradesh";
+let url = "https://cataas.com/cat";
 
-(async () => {
-  try {
-    const response = await fetch(url);
-    const result = await response.text();
-    console.log(result);
-  } catch (error) {
-    console.error(error);
-  }
-})();
+async function getData() {
+  let res = await axios.get(url);
+  return res;
+}
+
+let a = async () => {
+  let random = await getData();
+  console.log(random);
+};
+
+a();
